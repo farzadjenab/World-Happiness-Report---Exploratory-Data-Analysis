@@ -94,7 +94,7 @@ Make sure you have **Python 3.8+** installed on your system.
 
 ### Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/world-happiness-analysis.git
+git clone https://github.com/farzadjenab/World-Happiness-Report---Exploratory-Data-Analysis
 cd world-happiness-analysis
 
 ### Step 2: Create Virtual Environment (Optional but Recommended)
